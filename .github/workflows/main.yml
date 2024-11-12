@@ -1,6 +1,9 @@
-name: Workflow ej1
+name: ej3
 
-on: push
+on:
+  push:
+    branches:
+      - main
 
 jobs:
 
